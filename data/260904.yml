@@ -1,11 +1,13 @@
 about:
-  description: A powerful terminal app for structured log streaming
+  description:
+  |
+    A powerful terminal app for structured log streaming
   license: MIT
   homepage: 
   head: d62493c
   archived: false
   latestVersion: v0.3.26
-  collectedAt: 2026-09-04T04:24:40Z
+  collectedAt: 2026-09-04T19:30:01Z
 timeline:
   created: 2022-05-18
   lastCommit: 2026-03-19
@@ -16,17 +18,25 @@ popularity:
   fork: 12
   release: 36
   contributor: 4
-  pullRequest: 6
+  pullRequest: 29
   issue: 9
 language:
   Go: 266151
-totalLine: 266151
+totalBytes: 266151
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
     openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 0
     openIssue: 2
     commit: 5
+  last720d:
+    since: 2024-09-14
+    release: 6
+    mergedPR: 6
+    openPR: 3
+    closedIssue: 2
+    openIssue: 5
+    commit: 9
+total:
+  release: 36
+  mergedPR: 23
+  openPR: 3
+  closedIssue: 4
+  openIssue: 5
+  commit: 50
+---
+---
+
