@@ -7,7 +7,7 @@ about:
   head: d62493c
   archived: false
   latestVersion: v0.3.26
-  collectedAt: 2026-09-04T19:30:01Z
+  collectedAt: 2026-09-04T21:05:11Z
 timeline:
   created: 2022-05-18
   lastCommit: 2026-03-19
@@ -80,5 +80,38 @@ total:
   openIssue: 5
   commit: 50
 ---
+path: /home/runner/.x-repo/github.com/aurc/loggo
+collectedAt: 2026-09-04T21:05:14Z
+loc:
+  Go:
+    code: 4643
+    comments: 1062
+    blanks: 443
+    files: 50
+  Yaml:
+    code: 69
+    comments: 0
+    blanks: 0
+    files: 2
+  Json:
+    code: 62
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 242
+    blanks: 58
+    files: 1
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 4774
+  comments: 1305
+  blanks: 501
+  files: 55
 ---
 
