@@ -5,7 +5,7 @@ about:
   head: d62493c
   archived: false
   latestVersion: "v0.3.26"
-  collectedAt: 2026-09-07T05:32:39Z
+  collectedAt: 2026-09-07T19:06:35Z
 timeline:
   created: 2022-05-18
   lastCommit: 2026-03-19
@@ -53,7 +53,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 5
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 5
@@ -61,7 +61,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 2
-    commit: 5
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 6
@@ -79,7 +79,7 @@ total:
   commit: 50
 ---
 path: /home/runner/.x-repo/github.com/aurc/loggo
-collectedAt: 2026-09-07T05:32:48Z
+collectedAt: 2026-09-07T19:06:43Z
 loc:
   Go:
     code: 4643
@@ -115,7 +115,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:32:57+00:00
+  collectedAt: 2026-09-07T19:06:57+00:00
   platform:
     darwin/arm64:
       name:  loggo_0.3.26_darwin_arm64.tar.gz
