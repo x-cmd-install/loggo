@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.26"
   latestRelease: "v0.3.26"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:49:32Z
+  collectedAt: 2026-09-09T19:45:20Z
 timeline:
   created: 2022-05-18
   lastCommit: 2026-03-19
@@ -83,7 +83,7 @@ total:
   commit: 50
 ---
 path: /home/runner/.x-repo/github.com/aurc/loggo
-collectedAt: 2026-09-09T05:49:35Z
+collectedAt: 2026-09-09T19:45:28Z
 loc:
   Go:
     code: 4643
