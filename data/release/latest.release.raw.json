@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7489029,
       "digest": "sha256:777ae3cb46fa08ac8ae9e5d76327c0aac5c927ade3d21f6e187de31a5c3dc1c7",
-      "download_count": 187,
+      "download_count": 188,
       "created_at": "2026-03-19T23:58:44Z",
       "updated_at": "2026-03-19T23:58:45Z",
       "browser_download_url": "https://github.com/aurc/loggo/releases/download/v0.3.26/loggo_0.3.26_linux_amd64.tar.gz"
