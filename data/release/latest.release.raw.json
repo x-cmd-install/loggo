@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7513186,
       "digest": "sha256:8f776b6715f71a4f85b4f66a89960f70a4c13200bc1933bb6b01c0e831fecae2",
-      "download_count": 481,
+      "download_count": 482,
       "created_at": "2026-03-19T23:58:46Z",
       "updated_at": "2026-03-19T23:58:46Z",
       "browser_download_url": "https://github.com/aurc/loggo/releases/download/v0.3.26/loggo_0.3.26_linux_amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7489029,
       "digest": "sha256:777ae3cb46fa08ac8ae9e5d76327c0aac5c927ade3d21f6e187de31a5c3dc1c7",
-      "download_count": 261,
+      "download_count": 263,
       "created_at": "2026-03-19T23:58:44Z",
       "updated_at": "2026-03-19T23:58:45Z",
       "browser_download_url": "https://github.com/aurc/loggo/releases/download/v0.3.26/loggo_0.3.26_linux_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6821190,
       "digest": "sha256:3138b7332906b22868d3eb9aed2f43af3403e4099b299f29ce0a53ca5caa7e0e",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-03-19T23:58:43Z",
       "updated_at": "2026-03-19T23:58:44Z",
       "browser_download_url": "https://github.com/aurc/loggo/releases/download/v0.3.26/loggo_0.3.26_linux_arm64.tar.gz"
